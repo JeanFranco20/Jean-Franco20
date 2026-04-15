@@ -20,3 +20,5 @@ Soy un apasionado por la tecnología y la resolución de problemas mediante el c
 
 ### 📈 Estadísticas de GitHub
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jean-Franco20&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Franco20&layout=compact&theme=radical)
