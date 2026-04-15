@@ -1,35 +1,22 @@
-👋 Hola, soy Jean Franco
+# ¡Hola! Soy Jean Franco 👋
 
-💻 Estudiante de Ingeniería de Sistemas
-🚀 Apasionado por la tecnología, el desarrollo de software y la innovación digital
+### 👨‍💻 Estudiante de Ingeniería de Sistemas | Futuro Desarrollador Full Stack
 
-🧠 Sobre mí
+Soy un apasionado por la tecnología y la resolución de problemas mediante el código. Actualmente me encuentro enfocado en aprender tecnologías web modernas y mejorar mis habilidades en lógica de programación.
 
-Soy un estudiante de Ingeniería de Sistemas con gran interés en el desarrollo de soluciones tecnológicas que impacten en la vida real. Me gusta aprender constantemente, experimentar con nuevas herramientas y enfrentar retos que me permitan crecer tanto personal como profesionalmente.
+- 🔭 Actualmente trabajando en: **Proyectos académicos con Python y Flask**
+- 🌱 Aprendiendo: **JavaScript, React y Arquitectura de Software**
+- ⚡ Intereses: **Motociclismo y Sostenibilidad (Bio-construcción)**
 
-Actualmente estoy fortaleciendo mis conocimientos en programación, desarrollo web y estructuras de datos, con el objetivo de convertirme en un desarrollador completo.
+---
 
-⚙️ Tecnologías y herramientas
-💡 Lenguajes: Java, Python, HTML, CSS
-🛠️ Herramientas: Git, GitHub, Visual Studio Code, NetBeans
-📊 Otros: Bases de datos, lógica de programación, algoritmos
-📌 Proyectos
+### 🛠️ Tecnologías y Herramientas
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
 
-🔹 Graficador de funciones matemáticas
-Aplicación desarrollada en Python con interfaz gráfica utilizando tkinter, matplotlib y sympy.
-
-🔹 Proyectos académicos
-Trabajos enfocados en física, geometría analítica y desarrollo de software aplicando conceptos reales.
-
-🎯 Objetivos
-Seguir aprendiendo nuevas tecnologías
-Desarrollar proyectos más complejos
-Iniciar experiencia profesional en el área de desarrollo
-Crear soluciones innovadoras con impacto real
-📫 Contacto
-
-📧 jeanfrancomosqueiramartinez1@gmail.com
-
-⚡ Frase
-
-"El aprendizaje constante es la clave para construir el futuro."
+### 📈 Estadísticas de GitHub
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jean-Franco20&show_icons=true&theme=radical)
