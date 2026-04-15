@@ -19,6 +19,15 @@ Soy un apasionado por la tecnología y la resolución de problemas mediante el c
 </p>
 
 ### 📈 Estadísticas de GitHub
+![Estadísticas de Jean Franco](https://github-readme-stats.vercel.app/api?username=Jean-Franco20&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Franco20&layout=compact&theme=radical)
+
+
+### 📈 Mis Estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jean-Franco20&show_icons=true&theme=radical" alt="Estadísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Franco20&layout=compact&theme=radical" alt="Top Lenguajes" />
+</p>
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jean-Franco20&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Franco20&layout=compact&theme=radical)
